@@ -86,7 +86,11 @@ Allows users a streamlined method to coordinate gaps in their schedules as a way
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+<img src="https://i.imgur.com/yptuVNx.png" width=1000><br>
+
+---
+
+### Prototype
 
 ---
 
