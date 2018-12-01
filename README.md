@@ -95,4 +95,4 @@ Allows users a streamlined method to coordinate gaps in their schedules as a way
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1gF_S9qoAp7NbPgg6Z3RTvfGSUydt8qSMMPWKUgZoLt8/edit?usp=sharing
